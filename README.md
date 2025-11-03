@@ -1,2 +1,0 @@
-# gitpages
-Display git page
